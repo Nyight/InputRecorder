@@ -1,2 +1,2 @@
 # InputRecorder
-A C# library for a basic keyboard and mouse click recording and playback
+A C# library for basic keyboard and mouse click recording and playback
