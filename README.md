@@ -1,4 +1,4 @@
-# InputRecorder
+# Input Recorder
 A C# library for basic keyboard and mouse click recording and playback
 
 This project uses the following NuGet packages:<br/>
